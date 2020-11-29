@@ -1,2 +1,2 @@
-# VEWS-WhitePaper
-This repository was created to show a white paper project for a computer architecture class at SLCC.
+# Vehicle Early Warning System - WhitePaper
+This repository showcases the final project for CSIS-2810 (Computer Architecture) for Salt Lake Community College. 
